@@ -1180,7 +1180,9 @@
 			<keyword>SORTTO</keyword>
 			<keyword>SORT_ASC</keyword>
 			<keyword>SORT_DESC</keyword>
+			<keyword>SORT_FLAG_CASE</keyword>
 			<keyword>SORT_LOCALE_STRING</keyword>
+			<keyword>SORT_NATURAL</keyword>
 			<keyword>SORT_NUMERIC</keyword>
 			<keyword>SORT_REGULAR</keyword>
 			<keyword>SORT_STRING</keyword>
@@ -2227,6 +2229,7 @@
 			<keyword>headers_sent</keyword>
 			<keyword>hebrev</keyword>
 			<keyword>hebrevc</keyword>
+			<keyword>hex2bin</keyword>
 			<keyword>hexdec</keyword>
 			<keyword>highlight_file</keyword>
 			<keyword>highlight_string</keyword>
